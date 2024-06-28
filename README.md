@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbonokezia
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in web development and mobile development
 - 🌱 I’m currently learning dart and flutter
 - 💞️ I’m looking to collaborate on dart and flutter projects
 - 📫 How to reach me @mbonokezia
